@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Srinivas Mannem</h1>
+<h3 align="center">Aspiring Software Developer | B.Tech CSE @ VIT Vellore</h3>
 
-<!--
-**Mannem-Srinivas/Mannem-Srinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a Computer Science and Engineering undergrad at **VIT Vellore (2021–2025)** with a CGPA of **8.97**
+- 🔭 I’m currently building real-world full-stack apps & exploring cloud deployment tools like **Docker** and **AWS**
+- 👨‍💻 I have solved **500+ DSA problems** across platforms  
+- 📫 Reach me: **mannemsrinivas28@gmail.com**
+
+---
+
+💼 **Experience**
+
+**🔹 EvoAstra** – *Data Science Intern* (Remote)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built predictive models using **Linear Regression** and **KNN**, improving accuracy by 20%  
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed efficient **web scrapers** using BeautifulSoup  
+&nbsp;&nbsp;&nbsp;&nbsp;• Created data pipelines reducing processing time by 35%  
+&nbsp;&nbsp;&nbsp;&nbsp;• Tools: Python, Pandas, NumPy
+
+---
+
+🧠 **Projects**
+
+**🔸 Medical Insurance Cost Predictor**  
+[GitHub Repo](https://github.com/Mannem-Srinivas/Machine_Learning)  
+• Built an ML-based app to estimate medical insurance charges  
+• Tools: Python, Scikit-learn, Matplotlib, Pandas, Seaborn  
+
+**🔸 ToDo App with Spring Boot**  
+[GitHub](https://github.com/Mannem-Srinivas/ToDo) | [Live Demo](https://todo-frontend-jh1x.onrender.com)  
+• A task manager with CRUD operations, MySQL backend, deployed on AWS  
+• Dockerized, CI/CD enabled via GitLab  
+• Stack: HTML, CSS, JS, Spring Boot, MySQL, Docker, AWS, GitLab CI/CD  
+
+---
+
+🎯 **Achievements**
+
+- 🧠 Solved **500+ DSA questions** across LeetCode, CodeStudio, and more  
+- 🥈 Secured **2nd position** in Coding Ninjas college leaderboard (July–Aug 2024)  
+- 🏆 Participated in **Xiaomi Ode2Code 3.0**  
+- 🥇 **Position of Responsibility**: Projects Head @ Instrument Society of India – VIT  
+&nbsp;&nbsp;&nbsp;&nbsp;• Hosted **ARDUINOVA 2.0**, mentored juniors in DSA & dev  
+
+---
+
+🛠️ **Technical Skills**
+
+**Languages:** Java, Python, C++, C, SQL  
+**Frameworks/Libraries:** Spring Boot, NumPy, Pandas, Matplotlib, Glide  
+**Tools:** GitHub, GitLab CI/CD, Docker, Postman, AWS Elastic Beanstalk  
+**DevOps:** Containerization, Deployment, CI/CD  
+**Soft Skills:** Problem Solving, Team Collaboration, Self-learning
+
+---
+
+🔗 **Connect With Me**
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/srinivas-mannem-56784a21b/)
+- 🌐 [Portfolio](https://mannem-srinivas.github.io/portfolio/)
+- 🔗 [Linktree](https://linktr.ee/srinivasmannem)
+- 📄 [Resume](https://drive.google.com/file/d/1dyCFivPTbhwHkYObY4wP9_kFbZ9yj2WW/view?usp=sharing)
+
+---
+
+![Srinivas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mannem-Srinivas&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannem-Srinivas&layout=compact&theme=radical)
+
