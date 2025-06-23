@@ -9,6 +9,13 @@
 - 🔭 I’m currently building real-world full-stack apps & exploring cloud deployment tools like **Docker** and **AWS**
 - 👨‍💻 I have solved **500+ DSA problems** across platforms  
 - 📫 Reach me: **mannemsrinivas28@gmail.com**
+- <p align="center">
+  <a href="mailto:mannemsrinivas28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/srinivas-mannem-56784a21b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mannem-srinivas.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=gitbook&logoColor=white"/></a>
+  <a href="https://github.com/Mannem-Srinivas"><img src="https://img.shields.io/github/followers/Mannem-Srinivas?label=GitHub&style=for-the-badge&logo=github"/></a>
+</p>
+
 
 ---
 
@@ -54,6 +61,20 @@
 **Tools:** GitHub, GitLab CI/CD, Docker, Postman, AWS Elastic Beanstalk  
 **DevOps:** Containerization, Deployment, CI/CD  
 **Soft Skills:** Problem Solving, Team Collaboration, Self-learning
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab CI/CD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
 
 ---
 
