@@ -82,7 +82,7 @@
 
 - 📎 [LinkedIn](https://www.linkedin.com/in/srinivas-mannem-56784a21b/)
 - 🌐 [Portfolio](https://mannem-srinivas.github.io/portfolio/)
-- 🔗 [Linktree](https://linktr.ee/srinivasmannem)
+
 
 ---
 
