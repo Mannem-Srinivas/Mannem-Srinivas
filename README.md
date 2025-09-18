@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas Mannem</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech CSE @ VIT Vellore</h3>
+<h3 align="center">Software Developer at Innova Solutions | B.Tech CSE @ VIT Vellore</h3>
 
 ---
 
